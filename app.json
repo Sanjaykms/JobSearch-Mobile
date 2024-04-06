@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "JobSearch",
+    "slug": "JobSearch",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "fa33bdcd-71a9-41cd-92e4-94b66130ce18"
+      }
+    },
+    "android": {
+      "package": "com.sanjay_kms.JobSearch"
+    }
+  }
+}
